@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+Hello there! Thanks for stopping by. My name is Vinay and I recently graduated with Masters in Business Analytics. I love everything data related and like playing with it. I use R and Python for data analysis. I stumbled upon Apache Spark recently and have been enjoying learning and working on it.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[v.vinayshashank@gmail.com](mailto:email@domain.com)

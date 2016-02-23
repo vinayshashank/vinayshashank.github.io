@@ -9,7 +9,7 @@ name: Vinay Shashank
 description: Analytics Grad and Data 
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://github.com/vinayshashank/vinayshashank.github.io/blob/master/images/Profile.jpg
+avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
 
 #
 # Flags below are optional
@@ -54,7 +54,7 @@ baseurl: ""
 #
 
 markdown: kramdown
-highlighter: rogue
+highlighter: rouge
 permalink: /:title/
 
 # The release of Jekyll Now that you're using
